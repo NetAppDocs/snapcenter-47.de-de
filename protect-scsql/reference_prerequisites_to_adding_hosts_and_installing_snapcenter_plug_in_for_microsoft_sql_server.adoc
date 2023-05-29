@@ -25,9 +25,6 @@ http://support.microsoft.com/kb/2926557/["Microsoft Support-Artikel 2926557: Fü
 
 * Wenn Sie ein Plug-in auf einem Windows-Host installieren, müssen Sie UAC auf dem Host deaktivieren, wenn Sie keine Anmeldedaten angeben, die nicht integriert sind, oder wenn der Benutzer zu einem lokalen Workgroup-Benutzer gehört.
 * Wenn SnapManager für Microsoft SQL Server installiert ist, müssen Sie den Service und die Zeitpläne angehalten oder deaktiviert haben.
-+
-Wenn Sie Backup- oder Klonaufträge in SnapCenter importieren möchten, deinstallieren Sie SnapManager für Microsoft SQL Server nicht.
-
 * Der Host muss auf den vollständig qualifizierten Domänennamen (FQDN) vom Server resolable sein.
 +
 Wenn die Host-Datei geändert wird, damit sie resolable ist, und wenn sowohl der Kurzname als auch der FQDN in der Datei Hosts angegeben sind, erstellen Sie einen Eintrag in der Datei SnapCenter Hosts im folgenden Format: <ip_Address> <Host_fqdn> <Host_Name>
