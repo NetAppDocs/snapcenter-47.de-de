@@ -102,4 +102,13 @@ Aktiviert oder deaktiviert die Speicher-DR
 POST
 
 |===
+
+NOTE: Der Zeitplan für die Repository-Sicherung wird nur wiederhergestellt, wenn Sie das SnapCenter-Plug-in für Windows installieren und NetApp-LUN an die Servermaschine anbinden.
+
+
+NOTE: Wenn die DLLs beschädigt sind, können Sie versuchen, den SnapCenter-Server zu reparieren oder die fehlerhafte Installation zu korrigieren.
+
+
+NOTE: Wenn NSM- oder Konfigurationsdateien beschädigt sind, können Sie den SnapCenter-Server mit derselben Version deinstallieren und neu installieren.
+
 Weitere Informationen finden Sie im https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["Disaster Recovery-APIs"^] Video:
