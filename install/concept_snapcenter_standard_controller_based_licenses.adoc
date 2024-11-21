@@ -59,8 +59,8 @@ Wenn Sie auf den Cluster-Namen klicken, werden im Abschnitt Storage Virtual Mach
 In der Spalte „Controller License“ wird der folgende Status angezeigt:
 
 +
-** image:../media/controller_licensed_icon.gif[""] Zeigt an, dass eine Lizenz der SnapManager Suite auf einem primären FAS oder AFF Speichersystem installiert ist.
-** image:../media/controller_not_licensed_icon.gif[""] Zeigt an, dass keine SnapManager Suite-Lizenz auf einem primären FAS oder AFF-Speichersystem installiert ist.
+** image:../media/controller_licensed_icon.gif["Symbol für Controller-Lizenz"] Zeigt an, dass eine SnapManager Suite-Lizenz auf einem primären Speichersystem von FAS oder AFF installiert ist.
+** image:../media/controller_not_licensed_icon.gif["Symbol „Controller nicht lizenziert“"] Zeigt an, dass keine SnapManager Suite-Lizenz auf einem primären FAS oder AFF Speichersystem installiert ist.
 ** Nicht zutreffend. Dies zeigt an, dass keine Lizenz für die SnapManager Suite gilt, da der Speicher-Controller auf Cloud Volumes ONTAP-, ONTAP Select- oder sekundären Speicherplattformen ausgeführt wird.
 
 
@@ -180,7 +180,7 @@ Wenn Sie keine gültigen Anmeldedaten eingeben, werden keine Informationen für 
 . Navigieren Sie zu *Systems* > *Softwarelizenzen*.
 . Stellen Sie im Bereich „Selection Criteria“ (Auswahlkriterien) sicher, dass die Seriennummer (auf der Rückseite des Geräts) ausgewählt ist, geben Sie die Seriennummer des Controllers ein und klicken Sie dann auf *Go!*.
 +
-image::../media/nss_controller_license_select.gif[nss-Controller-Lizenz auswählen]
+image::../media/nss_controller_license_select.gif[Wählen Sie die Controller-Lizenz aus]
 
 +
 Eine Liste der Lizenzen für den angegebenen Controller wird angezeigt.
@@ -238,7 +238,7 @@ NOTE: Das manuelle Entfernen einer Testlizenz ist nur erforderlich, wenn Sie ein
 .. Führen Sie das Cmdlet "Open-SmConnection" aus, um eine Verbindungssitzung mit dem SnapCenter-Server für ein SnapCenterAdmin-Konto zu initiieren.
 .. Führen Sie das Set-RepositRepositRepositSmoryPassword aus, um das MySQL-Passwort zurückzusetzen.
 +
-Informationen zu den Cmdlets finden Sie unter https://library.netapp.com/ecm/ecm_download_file/ECMLP2883300["SnapCenter Software Cmdlet Referenzhandbuch"^].
+Informationen zu den Cmdlets finden Sie unter https://docs.netapp.com/us-en/snapcenter-cmdlets-47/index.html["SnapCenter Software Cmdlet Referenzhandbuch"^].
 
 
 

@@ -21,7 +21,7 @@ Sie sollten eine oder mehrere Richtlinien an die Ressourcengruppe anhängen, um 
 
 Das folgende Bild veranschaulicht die Beziehung zwischen Ressourcen, Ressourcengruppen und Richtlinien für Datenbanken:
 
-image::../media/sco_resourcegroup_policy.gif[sco-Ressourcengruppenrichtlinie]
+image::../media/sco_resourcegroup_policy.gif[Richtlinie aus Ressourcengruppe hinzufügen]
 
 *Schritte*
 
@@ -82,12 +82,12 @@ NOTE: Sie können Datenbanken von Linux- und AIX-Hosts in einer einzigen Ressour
 .. Wählen Sie eine oder mehrere Richtlinien aus der Dropdown-Liste aus.
 +
 
-NOTE: Sie können eine Richtlinie auch erstellen, indem Sie auf klicken image:../media/add_policy_from_resourcegroup.gif[""].
+NOTE: Sie können eine Richtlinie auch erstellen, indem Sie auf klicken image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"].
 
 +
 Im Abschnitt „Zeitpläne für ausgewählte Richtlinien konfigurieren“ werden die ausgewählten Richtlinien aufgelistet.
 
-.. Klicken Sie Auf *image:../media/add_policy_from_resourcegroup.gif[""]* In der Spalte Zeitplan konfigurieren für die Richtlinie, für die Sie einen Zeitplan konfigurieren möchten.
+.. Klicken Sie in der Spalte Zeitpläne konfigurieren auf * *image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"]für die Richtlinie, für die Sie einen Zeitplan konfigurieren möchten.
 .. Konfigurieren Sie im Fenster Add Schedules for Policy_Name_ den Zeitplan, und klicken Sie dann auf *OK*.
 +
 Dabei ist _Policy_Name_ der Name der von Ihnen ausgewählten Richtlinie.
@@ -103,7 +103,7 @@ Backup-Zeitpläne von Drittanbietern werden nicht unterstützt, wenn sie sich mi
 . Führen Sie auf der Seite Überprüfung die folgenden Schritte aus:
 +
 .. Klicken Sie auf *Lokatoren laden*, um die SnapMirror oder SnapVault Volumes zu laden, um eine Überprüfung auf dem sekundären Speicher durchzuführen.
-.. Klicken Sie Auf *image:../media/add_policy_from_resourcegroup.gif[""]* In der Spalte Zeitplan konfigurieren, um den Überprüfungsplan für alle Zeitplantypen der Richtlinie zu konfigurieren.
+.. Klicken Sie in der Spalte Configure Schedules auf * *image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"], um den Überprüfungsplan für alle Zeitplantypen der Richtlinie zu konfigurieren.
 .. Führen Sie im Dialogfeld Add Verification Schedules Policy_Name die folgenden Aktionen durch:
 +
 |===

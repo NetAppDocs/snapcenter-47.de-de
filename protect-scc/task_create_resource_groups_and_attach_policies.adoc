@@ -82,7 +82,7 @@ Wählen Sie diese Option aus, um zu vermeiden, einen WAFL Konsistenzpunkt zu erz
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["Anwendungseinstellungen"]
 
 .. Klicken Sie auf den Pfeil „Skripte“ und geben Sie die vor- und Post-Befehle für quiesce, Snapshot copy und unquiesce Vorgänge ein. Sie können auch die vor dem Beenden auszuführenden Vorbefehle im Falle eines Fehlers eingeben.
 .. Klicken Sie auf den Pfeil „Benutzerdefinierte Konfigurationen“, und geben Sie die für alle Datensicherungsvorgänge erforderlichen benutzerdefinierten Schlüsselwert-Paare mit dieser Ressource ein.
@@ -176,12 +176,12 @@ Wählen Sie „Sonstige“ aus, und geben Sie dann den Befehl ein, der auf dem H
 .. Wählen Sie eine oder mehrere Richtlinien aus der Dropdown-Liste aus.
 +
 
-NOTE: Sie können eine Richtlinie auch erstellen, indem Sie auf * klickenimage:../media/add_policy_from_resourcegroup.gif[""]*.
+NOTE: Sie können eine Richtlinie auch erstellen, indem Sie auf * * klickenimage:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"].
 
 +
 Die Richtlinien sind im Abschnitt * Zeitpläne für ausgewählte Richtlinien konfigurieren* aufgeführt.
 
-.. Klicken Sie in der Spalte *Zeitplan konfigurieren* auf *image:../media/add_policy_from_resourcegroup.gif[""]* Für die Richtlinie, die Sie konfigurieren möchten.
+.. Klicken Sie in der Spalte *Configure Schedules* für die Richtlinie, die Sie konfigurieren möchten, auf * *image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"].
 .. Konfigurieren Sie im Dialogfeld Add Schedules for Policy_Name_ den Zeitplan, und klicken Sie dann auf OK.
 +
 Hier ist Policy_Name der Name der von Ihnen ausgewählten Richtlinie.

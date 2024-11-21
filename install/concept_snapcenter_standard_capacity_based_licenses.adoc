@@ -84,7 +84,7 @@ Sie sollten gültige Anmeldedaten für die NetApp Support Site haben.
 . Navigieren Sie zu *Systems* > *Softwarelizenzen*.
 . Wählen Sie im Auswahlkriterienbereich im Dropdown-Menü „Show Me All: Serial Numbers and Licenses“ die Option *SC_STANDARD* aus.
 +
-image::../media/nss_license_selection.gif[nss-Lizenzauswahl]
+image::../media/nss_license_selection.gif[Lizenz]
 
 . Geben Sie Ihren Firmennamen ein und klicken Sie dann auf *Go!*.
 +
@@ -150,7 +150,7 @@ NOTE: Die Testlizenz (Seriennummer, die mit 50 endet) kann nicht mit dem GUI von
 
 . Klicken Sie im linken Navigationsbereich auf *Einstellungen*.
 . Klicken Sie auf der Seite Einstellungen auf *Software*.
-. Klicken Sie im Abschnitt Lizenz der Software-Seite auf *Hinzufügen* (image:../media/add_policy_from_resourcegroup.gif[""]).
+. Klicken Sie auf der Seite Software im Abschnitt Lizenz auf *Hinzufügen* (image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"]).
 . Wählen Sie im Assistenten zum Hinzufügen von SnapCenter-Lizenzen eine der folgenden Methoden aus, um die Lizenz zu erhalten, die Sie hinzufügen möchten:
 +
 |===

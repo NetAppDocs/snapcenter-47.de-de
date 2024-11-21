@@ -10,6 +10,7 @@ summary: Sie können Wiederherstellungsaufträge abbrechen, die in die Warteschl
 :imagesdir: ../media/
 
 
+[role="lead"]
 Sie können Wiederherstellungsaufträge abbrechen, die in die Warteschlange gestellt werden.
 
 Sie sollten als SnapCenter-Administrator oder -Auftragseigentümer angemeldet sein, um Wiederherstellungsvorgänge abzubrechen.
@@ -43,7 +44,7 @@ Monitor-Seite
  a| 
 Aktivitätsbereich
  a| 
-. Klicken Sie nach dem Starten des Wiederherstellungsvorgangs auf image:../media/activity_pane_icon.gif[""] Im Aktivitätsbereich werden die fünf letzten Vorgänge angezeigt.
+. Nachdem Sie den Wiederherstellungsvorgang gestartet haben, klicken Sie auf image:../media/activity_pane_icon.gif["Aktivitätssymbol"] das Aktivitätsfenster, um die fünf letzten Vorgänge anzuzeigen.
 . Wählen Sie den Vorgang aus.
 . Klicken Sie auf der Seite Jobdetails auf *Job abbrechen*.
 
