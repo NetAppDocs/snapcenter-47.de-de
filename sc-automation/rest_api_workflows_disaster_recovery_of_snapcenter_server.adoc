@@ -111,4 +111,4 @@ NOTE: Wenn die DLLs beschädigt sind, können Sie versuchen, den SnapCenter-Serv
 
 NOTE: Wenn NSM- oder Konfigurationsdateien beschädigt sind, können Sie den SnapCenter-Server mit derselben Version deinstallieren und neu installieren.
 
-Weitere Informationen finden Sie im https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["Disaster Recovery-APIs"^] Video:
+Weitere Informationen finden Sie im https://www.youtube.com/watch?v=_8NG-tTGy8k&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["Disaster Recovery-APIs"^] Video.

@@ -4255,7 +4255,6 @@
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">Wiederherstellung aus dem sekundären Storage in SMBR mit SnapCenter</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">Wiederherstellung von Microsoft Exchange Mail über SnapVault mit SMBR</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="ec053c308e147d0958e28a0ea54218e5" category="summary">Wenn Sie eine Replikatkopie erneut übertragen müssen, beispielsweise wenn eine Kopie beschädigt ist, können Sie sie mithilfe der Funktion zum erneuten Seeding in SnapCenter erneut in das neueste Backup übertragen.</block>
   <block id="aabc88376ed488867dcbd5ebe7ee5f24" category="doc">Erneutes Seeding eines passiven Exchange Node-Replikats</block>
   <block id="95ae09e6950aff657a0ec2b6e13f37f0" category="list-text">Sie müssen SnapCenter Server 4.1 oder höher und Plug-in für Exchange 4.1 oder höher verwenden.</block>
@@ -5494,7 +5493,6 @@
   <block id="2a1a78f96ec6b03f3ccdd06b708e6f1a" category="list-text">(Optional) Ersetzen Sie das SnapCenter-Plug-in für SQL Server-Konfigurationsdateien vom Disaster Recovery-Backup (DR) auf die neue Maschine.</block>
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">Importieren Sie Windows- und SQL-Zeitpläne aus dem SnapCenter-Plug-in für SQL Server-Ordner aus dem DR-Backup.</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link">Disaster Recovery-APIs</block>
-  <block id="90840bc3d6109c892e0f709274fdc6b6" category="paragraph">Weitere Informationen finden Sie im<block ref="af818973dd6acaf1e28a3bd4ca9bd4a5" category="inline-link-rx"></block> Video:</block>
   <block id="a8827ae14ad272b19b5554bf29b0dd50" category="summary">Nachdem das SnapCenter Plug-in für den primären SQL Server Storage wieder online ist, sollten Sie ein Failback auf den primären Storage durchführen.</block>
   <block id="c259d7aac6b257b97bf45bb54cdbfb28" category="doc">Failback von sekundärem SnapCenter Plug-in für SQL Server Storage auf den Primärspeicher</block>
   <block id="7ffc5c3595639b4cfa7e25819a476178" category="list-text">Setzen Sie das SnapCenter-Plug-in für SQL Server auf der Seite Managed Hosts in den *Maintenance*-Modus.</block>
@@ -7941,4 +7939,6 @@ Die Einstellung der Verfügbarkeit für NetApp Single Mailbox Recovery (EOA) ste
   <block id="1d1b01258ef419d4f55f117e4f1c31b5" category="paragraph">Sie können auch ein Plug-in von mehreren Hosts deinstallieren, indem Sie das Cmdlet _Uninstall-SmHostPackage_ und die erforderlichen Parameter verwenden. Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen verwendet werden können, können durch Ausführen von _get-Help Command_Name_ abgerufen werden. Alternativ können Sie auch auf die<block ref="0f28f0b8bf7238e3ed62f151c2fb9abd" category="inline-link-rx"></block>.</block>
   <block id="6e3721ff221b27bff22381b01334befc" category="paragraph">Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen verwendet werden können, können durch Ausführen von _get-Help Command_Name_ abgerufen werden. Alternativ können Sie auch die<block ref="0f28f0b8bf7238e3ed62f151c2fb9abd" category="inline-link-rx"></block>.</block>
   <block id="9792c7ba1a8a833a1c75e11c4a7b46c3" category="list-text">Wenn Sie mehrere Hosts aktualisieren möchten, wählen Sie alle Hosts aus, klicken Sie auf <block ref="725f4bf2ffc300942027282d0182533f" category="inline-image-macro-rx" type="image"></block>, und klicken Sie dann auf *Upgrade* &gt; *OK*.</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="86ea794e2d7fcff39be7476200e06b51" category="paragraph">Weitere Informationen finden Sie im<block ref="a62945bfb4dadbe324d9f8ad560f4a1c" category="inline-link-rx"></block> Video.</block>
 </blocks>
